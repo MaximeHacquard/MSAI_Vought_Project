@@ -9,7 +9,7 @@ Vought International, leader mondial dans la gestion des super-héros, fait face
 ## Mission
 La mission de ce projet est d'analyser les principaux défis auxquels Vought International est confronté, basés sur les appels téléphoniques reçus par le service client, et de proposer des solutions innovantes en utilisant les services Azure AI. L'objectif est d'améliorer l'efficacité des opérations et de garantir une gestion fluide et sécurisée des activités.
 
-## Pain Points Identifiés
+## Principaux Points Identifiés
 ### Service Client
 - Temps de réponse long aux questions et préoccupations des fans.
 - Gestion inefficace des incidents signalés par les citoyens.
